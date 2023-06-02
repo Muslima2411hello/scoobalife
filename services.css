@@ -1,0 +1,29 @@
+
+#services h1{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 40px;
+    color: blue;
+    text-align: center;
+}
+#services .row{
+    display: flex;
+    gap: 50px;
+    padding: 30px 100px;
+    justify-content: center;
+    align-items: center;
+}
+#services img{
+    width: 500px;
+    height: 400px;
+}
+#services .row .para{
+    padding: 10px;
+    text-align: justify;
+    font-size: 25px;
+}
+#services .row .para h3{
+    font-size: 36px;
+    color: blue;
+    margin-bottom: 20px;
+}

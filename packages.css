@@ -1,0 +1,48 @@
+
+#packages{
+    display: flex;
+    gap: 20px;
+}
+.packages{
+  margin: 100px 50px 50px 100px;
+  padding: 50px 50px;
+  width: 70vw;
+  height: 80%;
+  background-color: rgba(255, 255, 255, 0.877);
+  border-radius: 10px;
+  margin-left: 150px;
+}
+img{
+  width: 400px;
+  border-radius: 10px;
+}
+
+td {
+  padding: 10px;
+  text-align: justify;
+  align-items: center;
+  justify-content: center ;
+  
+}
+td a{
+  text-decoration: none;
+  color: white;
+  font-size: 25px;
+  background-color: #0a72ed;;
+  padding: 10px;
+  border-radius: 5px;
+
+}
+.packages h2{
+  text-align: center;
+  color: #0a72ed;
+  font-size: 56px;
+}
+td ul li {
+  list-style-type: none;
+  font-family: "Montserrat";
+  font-size: 25px;
+}
+table{
+  margin-top: 30px;
+}
